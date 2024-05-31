@@ -1,0 +1,38 @@
+
+/* Estilos para el héroe con fondo oscuro */
+/* Define el fondo oscuro */
+.hero.is-dark {
+    background-color: #363636;
+    /* Define el color del texto */
+    color: #fff;
+}
+
+/* Estilos para el título principal */
+.title {
+    /* Define el tamaño de fuente del título principal */
+    font-size: 3rem; /* Aumenta el tamaño del título */
+    /* Añade margen inferior para separarlo del contenido */
+    margin-bottom: 1rem;
+    /* Alinea el texto al centro */
+    text-align: center;
+}
+
+/* Estilos para el contenido principal */
+.content {
+    /* Define el tamaño de fuente del contenido principal */
+    font-size: 1.6rem;
+    /* Define la altura de línea del contenido principal */
+    line-height: 1.6;
+    /* Añade espacio interno alrededor del contenido principal */
+    padding: 20px;
+    /* Añade margen inferior para separarlo del siguiente contenido */
+    margin-bottom: 1.5rem;
+    /* Añade bordes redondeados al contenido principal */
+    border-radius: 0.5rem; /* Reducción del radio de borde para un aspecto más moderno */
+    /* Define el color de fondo del contenido principal */
+    background-color: #f8f9fa; /* Color de fondo más claro */
+    /* Define el borde del contenido principal */
+    border: 1px solid #dee2e6; /* Borde más claro */
+    /* Añade una sombra alrededor del contenido principal */
+    box-shadow: 0 2px 4px rgba(10, 10, 10, 0.1); /* Sombra más suave */
+}
